@@ -35,7 +35,7 @@ To use the Birthday Email Automation tool, ensure you have the following:
 
 4. Open the `birthdays.csv` file in a text editor or spreadsheet software and populate it with the names, email addresses, and birthdays of the recipients. Save the file.
 
-5. Open the `config.py` file and update the SMTP server details and your email credentials in the respective fields.
+5. Open the `automated_birthday_wisher.py` file and update the SMTP server details and your email credentials in the respective fields.
 
 6. Customize the email template in the `letter.txt` file. You can modify the subject line, message body, and any other details according to your preference.
 
